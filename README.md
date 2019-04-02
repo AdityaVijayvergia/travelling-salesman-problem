@@ -1,2 +1,5 @@
 # travelling-salesman-problem
-Genetic algorithm
+Implemented using genetic algorithm.
+The results are shown below.
+
+
